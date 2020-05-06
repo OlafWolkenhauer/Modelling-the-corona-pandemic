@@ -1,3 +1,9 @@
+# Files
+
+There are two Jupyter Notebooks available: (i) An interactive simulation of the basic SUIR model for use with Google Colab. (ii) A fully documented Jupyter Notebooks, for use in Google Colab or JupyterLab, which includes a full derivation of the model, and numerous simulation studies. This notebook is the basis for the manuscript linked to this work. The main file is named "SUIR Modelling VXY.ipynb". The more basic notebook with the interactive SUIR model is named SUIR Modelling Interactive.ipynb"
+
+We further more uploaed here several of the key figures that summarise the simulation studies.
+
 # SUIR Modelling
 
 During the SARS-CoV-2 pandemic, numerous mathematical models have been developed. Using these models to predict infections, for a particular region or country has been very difficult to do a lack of sufficiently rich and time accurate datasets. Reporting artefacts and missing data about asymptomatic spreaders, imply considerable margins of uncertainty for predictions.
@@ -7,6 +13,3 @@ Our analysis reveals the effect of 'pro-active' testing for the design of contac
 Since both, a total lockdown and pro-active testing will be difficult to achieve, especially in the early phase of a pandemic. Our analysis suggests however that with pro-active testing and strict isolation of identified spreaders, it is possible to achieve control of the pandemic without a total lockdown. Our simulations also show that a short lockdown or period lockdown-exit pattern bring substantial reductions in the number of infections, without a long-term lockdown of large parts of the economy.
 Our SUIR model is implemented in Python and is made available through a Juypter Notebooks. This an extensive documentation of the derivation and implementation of the model, as well as transparent and reproducible simulation studies. Our model should contribute to a better understanding of the role of testing and contact restrictions.
 
-# Files
-
-There are two Jupyter Notebooks available: (i) An interactive simulation of the basic SUIR model for use with Google Colab. (ii) A fully documented Jupyter Notebooks, for use in Google Colab or JupyterLab, which includes a full derivation of the model, and numerous simulation studies. This notebook is the basis for the manuscript linked to this work.
