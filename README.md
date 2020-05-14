@@ -2,6 +2,8 @@
 
 There are two Jupyter Notebooks available: (i) An interactive simulation of the basic SUIR model for use with Google Colab. (ii) A fully documented Jupyter Notebooks, for use in Google Colab or JupyterLab, which includes a full derivation of the model, and numerous simulation studies. This notebook is the basis for the manuscript linked to this work. The main file is named "SUIR Modelling VXY.ipynb". The more basic notebook with the interactive SUIR model is named SUIR Modelling Interactive.ipynb"
 
+V04 added the calculation of $R_t$ and a comparison of scenarious, strategies and policies w.r.t. the Area Under Curve (AUC) of a refence case.
+
 # Abstract
 
 During the SARS-CoV-2 pandemic, numerous mathematical models have been developed. Reporting artefacts and missing data about asymptomatic spreaders, imply considerable margins of uncertainty for model-based predictions. Epidemiological models can however also be used to investigate the consequences of measures to control the pandemic, reflected in changes to parameter values.
