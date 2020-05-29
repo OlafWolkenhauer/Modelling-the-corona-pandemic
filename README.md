@@ -2,7 +2,7 @@
 
 There are two Jupyter Notebooks available: (i) An interactive simulation of the basic SUIR model for use with Google Colab. (ii) A fully documented Jupyter Notebooks, for use in Google Colab or JupyterLab, which includes a full derivation of the model, and numerous simulation studies. This notebook is the basis for the manuscript linked to this work. The main file is named "SUIR Modelling VXY.ipynb". The more basic notebook with the interactive SUIR model is named SUIR Modelling Interactive.ipynb"
 
-V04 added the calculation of $R_t$ and a comparison of scenarious, strategies and policies w.r.t. the Area Under Curve (AUC) of a refence case. V05 added a scenario for periodic lockdown with late/slow rampup of pro-active testing. We also crushed a bug related to rho.
+V04 added the calculation of $R_t$ and a comparison of scenarious, strategies and policies w.r.t. the Area Under Curve (AUC) of a refence case. V05 added a scenario for periodic lockdown with late/slow rampup of pro-active testing. We also crushed a bug related to rho. V05 added the derivation of an analytical expression that provides an upper bound on contact restrictions, linked to a level of testing.
 
 # Abstract
 
